@@ -1,11 +1,10 @@
 {
-  "latest_version": "2.6.0",
-  "download_url": "ضع_هنا_رابط_تحميل_SignalPlus.exe",
+  "latest_version": "3.1.0",
+  "download_url": "https://github.com/mohamohammed/SignalPlus-Updates/releases/latest/download/SignalPlus.exe",
   "notes": [
-    "إضافة صفحة الأجهزة المتصلة",
-    "تحسين قراءة أجهزة Huawei",
-    "إضافة فحص خام للأجهزة",
-    "تحسين رسائل الأخطاء"
+    "إصلاح نظام التحديثات",
+    "إصلاح مشكلة requests",
+    "تحسين فحص رابط التحديث"
   ],
   "force_update": false
 }
