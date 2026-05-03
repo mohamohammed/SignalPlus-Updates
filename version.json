@@ -1,13 +1,11 @@
 {
-  "latest_version": "3.3.0",
+  "latest_version": "3.3.3",
   "download_url": "https://github.com/mohamohammed/SignalPlus-Updates/releases/latest/download/SignalPlus.exe",
   "notes": [
-    "إضافة اختبار السرعة والثبات",
-    "إضافة اختبار Ping للراوتر والإنترنت",
-    "إضافة حساب Jitter و Loss",
-    "إضافة تقييم الألعاب والمشاهدة والتحميل",
-    "إضافة تقرير سرعة وثبات قابل للنسخ",
-    "الحفاظ على التحديث الذاتي الكامل"
+    "نسخة اختبارية لنظام التحديث الذاتي",
+    "اختبار إغلاق النسخة القديمة بالكامل",
+    "اختبار استبدال SignalPlus.exe",
+    "اختبار تشغيل النسخة الجديدة تلقائيًا"
   ],
   "force_update": false
 }
