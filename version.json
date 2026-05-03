@@ -1,11 +1,10 @@
 {
-  "latest_version": "3.1.2",
+  "latest_version": "3.2.1",
   "download_url": "https://github.com/mohamohammed/SignalPlus-Updates/releases/latest/download/SignalPlus.exe",
   "notes": [
-    "إصلاح زر أفضل تردد تلقائيًا",
-    "تحسين استقرار الترددات",
-    "الحفاظ على الأيقونة الأصلية",
-    "تحسين رسائل الأخطاء"
+    "إضافة التحديث الذاتي الكامل",
+    "إضافة Smart Signal Optimizer",
+    "تحسين استقرار البرنامج"
   ],
   "force_update": false
 }
