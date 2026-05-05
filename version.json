@@ -1,13 +1,14 @@
 {
-  "latest_version": "3.5.0",
+  "latest_version": "3.9.4",
   "download_url": "https://github.com/mohamohammed/SignalPlus-Updates/releases/latest/download/SignalPlus.exe",
   "notes": [
-    "تشغيل البرنامج في نافذة Desktop احترافية بدل المتصفح",
-    "إضافة Professional Desktop Edition",
-    "الحفاظ على التحديث الذاتي الكامل",
+    "توحيد صورة الشعار في واجهة الدخول والواجهة الداخلية",
+    "استخدام الأيقونة الرسمية للبرنامج",
+    "استبدال مراجع الصور القديمة غير المتناسقة",
+    "الحفاظ على Ookla Integration Fix",
+    "الحفاظ على Signal Plus by Mohaskull",
     "الحفاظ على Smart Signal Optimizer",
-    "الحفاظ على اختبار السرعة والثبات",
-    "الحفاظ على رسالة المطوّر والأيقونة الأصلية"
+    "الحفاظ على Speed & Stability Test"
   ],
   "force_update": false
 }
