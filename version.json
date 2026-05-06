@@ -1,14 +1,13 @@
 {
-  "latest_version": "3.9.4",
+  "latest_version": "4.0.0",
   "download_url": "https://github.com/mohamohammed/SignalPlus-Updates/releases/latest/download/SignalPlus.exe",
   "notes": [
-    "توحيد صورة الشعار في واجهة الدخول والواجهة الداخلية",
-    "استخدام الأيقونة الرسمية للبرنامج",
-    "استبدال مراجع الصور القديمة غير المتناسقة",
-    "الحفاظ على Ookla Integration Fix",
-    "الحفاظ على Signal Plus by Mohaskull",
-    "الحفاظ على Smart Signal Optimizer",
-    "الحفاظ على Speed & Stability Test"
+    "إضافة دعم العربية والإنجليزية",
+    "إضافة زر تغيير اللغة",
+    "دعم RTL للعربية و LTR للإنجليزية",
+    "حفظ اللغة المختارة",
+    "ترجمة أهم عناصر الواجهة",
+    "الحفاظ على Auto Update Notify و Safe Updater Fix"
   ],
   "force_update": false
 }
