@@ -1,12 +1,13 @@
 {
-  "version": "4.0.2",
-  "download_url": "https://github.com/mohamohammed/SignalPlus-Updates/releases/download/v4.0.2/SignalPlus.exe",
-  "sha256": "0818e8d05e691798af40b10f82707680acc7100381325e2237dc0cd8f90afd25",
+  "version": "4.0.3",
+  "download_url": "https://github.com/mohamohammed/SignalPlus-Updates/releases/download/v4.0.3/SignalPlus.exe",
+  "sha256": "46232e626894c4807b8f0a0f51c53b9bbfc8c46b55f6aea3e820d01948139fa3",
   "changelog": [
-    "تحسين رسائل التحديث",
-    "تحسين وضوح حالة كلمة المرور المحفوظة",
-    "تنظيف الوثائق القديمة والمتكررة",
-    "تحسينات استقرار عامة"
+    "إصلاح حظر الأجهزة ورفع الحظر",
+    "استخدام endpoint الصحيح لقائمة الحظر في راوتر Huawei E5785Lh-22c",
+    "عرض قائمة الحظر بشكل مستقل عن الأجهزة المتصلة",
+    "تحسين تجربة Device Access Control",
+    "الحفاظ على أمان كلمة المرور والتحديثات"
   ],
   "mandatory": false
 }
