@@ -1,12 +1,12 @@
 {
-  "version": "4.0.1",
-  "download_url": "https://github.com/mohamohammed/SignalPlus-Updates/releases/download/v4.0.1/SignalPlus.exe",
-  "sha256": "c50eedc828ee753b2aa87af1f2f26427d302f4d6e6a9bad7d8c426b405556b14",
+  "version": "4.0.2",
+  "download_url": "https://github.com/mohamohammed/SignalPlus-Updates/releases/download/v4.0.2/SignalPlus.exe",
+  "sha256": "0818e8d05e691798af40b10f82707680acc7100381325e2237dc0cd8f90afd25",
   "changelog": [
-    "تحسين أمان التحديث عبر SHA256",
-    "تحسين حفظ كلمة مرور الراوتر بأمان",
-    "تنظيف ملفات البناء والتشغيل",
-    "توحيد المنفذ الرسمي على 8781"
+    "تحسين رسائل التحديث",
+    "تحسين وضوح حالة كلمة المرور المحفوظة",
+    "تنظيف الوثائق القديمة والمتكررة",
+    "تحسينات استقرار عامة"
   ],
   "mandatory": false
 }
