@@ -1,13 +1,14 @@
 {
-  "version": "4.0.3",
-  "download_url": "https://github.com/mohamohammed/SignalPlus-Updates/releases/download/v4.0.3/SignalPlus.exe",
-  "sha256": "46232e626894c4807b8f0a0f51c53b9bbfc8c46b55f6aea3e820d01948139fa3",
+  "version": "4.1.0",
+  "download_url": "https://github.com/mohamohammed/SignalPlus-Updates/releases/download/v4.1.0/SignalPlus.exe",
+  "sha256": "2bdfbc857713d9ce80b6a54aec2c258ed9186003aeebe0bf21feabcaf0b51d77",
   "changelog": [
-    "تحسين التحكم في الأجهزة المتصلة",
-    "إصلاح ميزة حظر الأجهزة ورفع الحظر",
-    "تحسين عرض قائمة الأجهزة المحظورة",
-    "تحسين استقرار تجربة المستخدم",
-    "تحسينات عامة في الأمان والأداء"
+    "إضافة محرك توافق Huawei HiLink",
+    "تحسين التعرف على موديل الراوتر",
+    "تحسين اختيار طريقة الاتصال المناسبة حسب الراوتر",
+    "إضافة تقارير توافق داخلية لدعم موديلات أكثر مستقبلًا",
+    "الحفاظ على ميزات حظر الأجهزة ورفع الحظر",
+    "تحسينات عامة في الاستقرار وتجربة الاستخدام"
   ],
   "mandatory": false
 }
