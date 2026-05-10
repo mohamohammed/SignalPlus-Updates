@@ -1,14 +1,15 @@
 {
-  "version": "4.1.0",
-  "download_url": "https://github.com/mohamohammed/SignalPlus-Updates/releases/download/v4.1.0/SignalPlus.exe",
-  "sha256": "2bdfbc857713d9ce80b6a54aec2c258ed9186003aeebe0bf21feabcaf0b51d77",
+  "version": "4.2.0",
+  "download_url": "https://github.com/mohamohammed/SignalPlus-Updates/releases/download/v4.2.0/SignalPlus.exe",
+  "sha256": "667c438e594ad0c784c494bc2e2c1609505d4d656fcfb1b1983351fde4156579",
   "changelog": [
-    "إضافة محرك توافق Huawei HiLink",
-    "تحسين التعرف على موديل الراوتر",
-    "تحسين اختيار طريقة الاتصال المناسبة حسب الراوتر",
-    "إضافة تقارير توافق داخلية لدعم موديلات أكثر مستقبلًا",
-    "الحفاظ على ميزات حظر الأجهزة ورفع الحظر",
-    "تحسينات عامة في الاستقرار وتجربة الاستخدام"
+    "إضافة صفحة حالة الراوتر الذكية",
+    "إضافة توصيات ذكية لتحسين الاتصال",
+    "تحسين تقرير الحالة",
+    "تحسين عرض الأجهزة المتصلة",
+    "تحسين صفحة توافق الراوتر",
+    "تحسينات عامة في تجربة المستخدم",
+    "الحفاظ على أمان كلمة المرور ونظام التحديثات"
   ],
   "mandatory": false
 }
